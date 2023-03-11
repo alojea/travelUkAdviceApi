@@ -100,7 +100,7 @@ Hungary
 Iceland
 India
 Indonesia
-Iran)
+Iran
 Iraq
 Ireland
 Isle of Man
@@ -158,7 +158,7 @@ Nigeria
 Niue
 Norfolk Island
 Northern Mariana Islands
-    North Korea
+North Korea
 Norway
 Oman
 Pakistan
@@ -182,7 +182,7 @@ Saint Barthélemy
 Saint Helena Ascension and Tristan da Cunha
 Saint Kitts and Nevis
 Saint Lucia
-Saint Martin)
+Saint Martin
 Saint Pierre and Miquelon
 Saint Vincent and the Grenadines
 Samoa
@@ -201,7 +201,7 @@ Solomon Islands
 Somalia
 South Africa
 South Georgia and the South Sandwich Islands
-    South Korea
+South Korea
 South Sudan
 Spain
 Sri Lanka
